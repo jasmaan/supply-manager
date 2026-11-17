@@ -1,0 +1,17 @@
+Total bamboo stock:
+Type 0: 0
+Type 1: 0
+Type 2: 0
+Type 3: 50
+Type 4: 0
+Type 5: 33
+Type 6: 0
+Type 7: 1310
+Type 8: 0
+Type 9: 100
+Top 3 bamboo types: 7, 9, 3
+Supplier statistics:
+Supplier 101: 17%
+Supplier 154: 67%
+Supplier 45: 9%
+Supplier 14: 7%
