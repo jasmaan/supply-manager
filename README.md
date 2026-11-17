@@ -1,6 +1,6 @@
 # Supply Manager 
 
-Command line inventory manager written in C for a university course. It loads shipment records from a file into a dynamic array and lets you view, add, remove, search, sort, and generate a report on them. Focus on manual memory management, structs, and sorting. 
+Command line inventory manager written in C. It loads shipment records from a file into a dynamic array and lets you view, add, remove, search, sort, and generate a report on them. Focus on manual memory management, structs, and sorting. 
 
 ## What it does
 
