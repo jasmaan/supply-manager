@@ -4,10 +4,10 @@ Command line inventory manager written in C for a university course. It loads sh
 
 ## What it does
 
-- Loads shipments from shipments.txt into a dynamic array that grows with realloc as it fills (frees all memory on exit).
+- Loads shipments from 'shipments.txt' into a dynamic array that grows with realloc as it fills (frees all memory on exit).
 - Presents an option menu: view all, add, remove, search by type/supplier/date range, sort by amount/type/date, and generate a report.
 - Sorts with qsort and custom comparator functions.
-- Writes report.txt with totals per type, each supplier's contribution percentage, and the top 3 most common types.
+- Writes 'report.txt' with totals per type, each supplier's contribution percentage, and the top 3 most common types.
 - Validates input throughout (bound checks, rejecting nonnumeric input where a number is expected).
 
 ## [HOW TO RUN]
