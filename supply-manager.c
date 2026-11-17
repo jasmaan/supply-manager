@@ -4,6 +4,7 @@
 
 // --------------------------------------------
 //  Supply Manager
+//  Completed during a University course
 // --------------------------------------------
 
 // Constant used in ShipmentStats struct
