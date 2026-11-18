@@ -1,0 +1,6 @@
+# Compiled executables
+supply-manager
+a.out
+
+# Object files
+*.o
